@@ -1,4 +1,4 @@
-# StockHistoryRU
+# StockHistoryRU (Russian Stocks)
 StockHistoryRU is a powerful and easy-to-use Python package designed to fetch historical stock data for any Russian company. Whether you're a financial analyst, a data scientist, or a casual investor, StockHistoryRU provides you with the tools you need to access and analyze historical stock data.
 
 # Key Features
